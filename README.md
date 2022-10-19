@@ -8,11 +8,11 @@
   + 확인을 누르면 결과가 나옵니다
 
 
-  ### HTML
-  + Semantic Tag
+### HTML
++ Semantic Tag
 
-  ### Javascript
-  + DOM
-  + Selector
-  + EventListener
-  + Conditional, repetitive statement
+### Javascript
++ DOM
++ Selector
++ EventListener
++ Conditional, repetitive statement
